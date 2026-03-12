@@ -7,21 +7,21 @@ Objective:
 1. Starting at your office, your task for beating the game is to survive 5 nights to get your paycheck.
 2. There are 5 mascots and each starts in a specific rooms :
    - Hooter, Gritty and Philly Phanatic starting at the lounge
-   - Phang starts in the utilty room
+   - Phang starts in the utility room
    - Franklin starts in the BallCart
    
 3. Each mascot will randomly move to adjacent rooms where eventually they will reach the office where you reside.
-   - Your visibility to the room may be distrupted.
+   - Your visibility to the room may be disrupted.
    
 5. There is also a TU Alert, that will be sent to the player randomly, and depending on the type of message, certain mascot will be more aggressive and move more often.
 
 6. To defend yourself, there are 2 methods:
    - In the office, there are 2 doors and 1 vent where you can use the flashlight to scare off the mascots at the door/vent
    - Each rooms you see on the camera have a seal door feature that prevents the mascot from entering or leaving the room.
-   - All animontric can be flashed but Hooter can only be stalled, as the flash from the light will cause it to attack.
+   - All animatronic can be flashed but Hooter can only be stalled, as the flash from the light will cause it to attack.
 
 7. Finally, there is a power system where the actions you do such as opening the camera, sealing the rooms, or flashing the doors/vent will take a certain percentage of the power.
-   - When the power reaches 0, it will autamatically go into a recharge state, where you are essentially a sitting duck.
+   - When the power reaches 0, it will automatically go into a recharge state, where you are essentially a sitting duck.
   
 Additional Features:
 
@@ -62,3 +62,23 @@ https://trello.com/b/03hQVfXd/fnat-final-project
 5. This button is available for about an hour after you try to open the app.
 
 6. Enter your login password, then click OK.
+
+## For Developers
+
+### Prerequisites
+1. Download [**Godot Engine**](https://godotengine.org/download/).
+
+2. Extract and run installer.
+
+3. Run Godot Engine
+
+### To Edit the Project
+1. Download the source code ZIP. (**Do not extract it.**)
+
+2. In Godot Engine Project Manager, Click the Import button.
+
+3. Navigate to the directory where the ZIP was downloaded and click 'Select Folder'.
+
+4. Import the project and update the project the latest version of Godot Engine if needed.
+
+5. Run the project.
