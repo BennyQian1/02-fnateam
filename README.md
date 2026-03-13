@@ -1,7 +1,7 @@
 # FIVE NIGHTS AT TEMPLE
-This is a FNAF fan game.
+You are currently on the TEMPLEBRANDING branch
 
-You work as a security guard at Temple University, working the night shifts. On the campus, there exist 5 animatronic where each of them resembles mascot for each of the sports teams of Philadelphia. These "mascots" was a final project created by students from the art and engineering students. On first night of your shifts, the mascots malfunctioned due to unknown circumstance that causes them to become more violent and willing to kil anyone on site.
+### HOW TO GET PROGRAM TO RUN
 
 Objective:
 1. Starting at your office, your task for beating the game is to survive 5 nights to get your paycheck.
@@ -25,7 +25,7 @@ Objective:
 
 Additional Features:
 
-1. As the night progress, strange sound will be played.
+4. Run Godot, import project, and import plugin
 
 2. On the home page, there is a custom setting that allows the player to create a custom night where the ai levels are set by the player.
 
