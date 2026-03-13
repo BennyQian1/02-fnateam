@@ -68,17 +68,23 @@ https://trello.com/b/03hQVfXd/fnat-final-project
 ### Prerequisites
 1. Download [**Godot Engine**](https://godotengine.org/download/).
 
-2. Extract and run installer.
+2. Download GodotWebview plugin (https://godotwebview.com/pages/downloads/)
 
-3. Run Godot Engine
+3. Extract and run installer.
+
+4. Run Godot Engine
 
 ### To Edit the Project
-1. Download the source code ZIP. (**Do not extract it.**)
+1. Download the source code ZIP.
 
-2. In Godot Engine Project Manager, Click the Import button.
+2. Put the plugin in the addons folder in the game project
 
-3. Navigate to the directory where the ZIP was downloaded and click 'Select Folder'.
+3. In Godot Engine Project Manager, Click the Import button.
 
-4. Import the project and update the project the latest version of Godot Engine if needed.
+4. Navigate to the directory where the ZIP was downloaded and click 'Select Folder'.
 
-5. Run the project.
+5. Import the project and update the project the latest version of Godot Engine if needed.
+
+6. Run the project.
+
+7. Refresh the project if plugin doesn't load
